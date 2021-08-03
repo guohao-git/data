@@ -1,5 +1,5 @@
 this is my first git
-this is my first git
+this is my first git hot-fix commit
 this is my first git
 this is my first git
 this is my first git
