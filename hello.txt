@@ -2,14 +2,8 @@ this is my first git master commit
 this is my first git hot-fix commit
 this is my first git
 this is my first git
-this is my first git
-this is my first git
-this is my first git
-this is my first git
-this is my first git
-this is my first git
-this is my first git
 version2.0
 this is my second git 
 version3.0
 this is commit by hot-fix
+this is commit by web
